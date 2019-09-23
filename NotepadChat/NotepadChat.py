@@ -2,7 +2,7 @@
 
 #notepad chat room
 #@author : zyyz
-#@latest update:2019/09/22
+#@latest update:2019/09/23
 
 import os
 import win32api
