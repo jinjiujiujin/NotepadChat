@@ -1,0 +1,3 @@
+This is a project that users could use notepad to communicate.
+
+version 1.0.0 The interaction between the client and the server is realized...
